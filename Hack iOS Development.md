@@ -1,0 +1,68 @@
+# Hack iOS Development
+## Computer Science
+- [ ] History of the computer
+- [ ] Hardware
+	- [ ] CPU
+	- [ ] RAM
+	- [ ] Storage (HDD, SSD)
+- [ ] Basics of programming (Swift)
+	- [ ] Constants, Variables, Data Types
+	- [ ] Basic Operations
+	- [ ] Strings and Characters
+	- [ ] Collection Types
+	- [ ] Control Flow
+	- [ ] Functions
+	- [ ] Basics of Algorithms
+		- [ ] Efficiency (Big O and Omega Notations)
+		- [ ] Search (Linear, Binary)
+		- [ ] Sort (Bubble, Selection, Insertion, Merge)
+		- [ ] Graphs
+		- [ ] Machine Learning
+	- [ ] Basics of Data Structures
+		- [ ] Array
+		- [ ] Queue
+		- [ ] List
+		- [ ] Tree
+		- [ ] Hash table
+		- [ ] Sets
+		- [ ] Graphs
+	- [ ] Memory
+		- [ ] Pointers
+		- [ ] Segmentation Faults
+		- [ ] Dynamic Memory Allocation
+		- [ ] Stack
+		- [ ] Heap
+		- [ ] Buffer Overflow
+		- [ ] Data Structures
+		- [ ] File I/O
+		- [ ] Images
+- [ ] Swift Language
+	- [ ] Closures
+	- [ ] Enumerations
+	- [ ] Structures and Classes
+	- [ ] Properties
+	- [ ] Methods
+	- [ ] Subscripts
+	- [ ] Inheritance
+	- [ ] Initialization
+	- [ ] Deinitialization
+	- [ ] Optional Chaining
+	- [ ] Error Handling
+	- [ ] Concurrency
+	- [ ] Type Casting
+	- [ ] Nested Types
+	- [ ] Extensions
+	- [ ] Protocols
+	- [ ] Generics
+	- [ ] Opaque Types
+	- [ ] Automatic Reference Counting
+	- [ ] Memory Safety
+	- [ ] Access Control
+	- [ ] Advanced Operators
+	- [ ] Method Dispatch
+	- [ ] Advanced Memory Management (Memory Layout, Copy-on-write)
+	- [ ] Async/await
+
+## iOS Platform
+
+## Product Thinking
