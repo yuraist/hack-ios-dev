@@ -64,5 +64,86 @@
 	- [ ] Async/await
 
 ## iOS Platform
-
+- [ ] Xcode
+	- [ ] Project
+	- [ ] Target
+	- [ ] Settings, Configurations, Schemes
+	- [ ] Property List Files, Nib Files, Code Files, Resources, 
+	- [ ] Frameworks, SDKs, and Packages
+	- [ ] App Launch Process
+- [ ] UIKit
+	- [ ] UIView
+	- [ ] UIWindow
+	- [ ] UIViewController
+	- [ ] Auto Layout
+	- [ ] Touches
+	- [ ] Gestures
+- [ ] Core Graphics
+	- [ ] Images,
+	- [ ] Drawing
+- [ ] Core Animation
+	- [ ] Layers
+	- [ ] Animation
+- [ ] Advanced View Controllers
+	- [ ] Storyboard Layout
+	- [ ] Manual Layout
+	- [ ] Tab Bar Controller
+	- [ ] Navigation Controller
+	- [ ] Page View Controller
+	- [ ] Container View Controller
+- [ ] Scroll View
+- [ ] Table View 
+- [ ] Collection View
+- [ ] SwiftUI
+- [ ] Text
+	- [ ] Label
+	- [ ] Text Filed
+	- [ ] Text View
+	- [ ] Attributed Strings
+	- [ ] Text Kit
+- [ ] Controls
+- [ ] Multithreading
+	- [ ] Thread
+	- [ ] Grand Central Dispatch
+	- [ ] Operations
+	- [ ] Runloop
+- [ ] Notification Center
+- [ ] Web View
+- [ ] Modal View
+- [ ] Audio
+- [ ] Video
+- [ ] Camera and Photo Library
+- [ ] Contacts
+- [ ] Calendar
+- [ ] Map
+- [ ] Core Location
+- [ ] Persistent Storage
+	- [ ] User Defaults
+	- [ ] Files
+	- [ ] XML, JSON
+	- [ ] SQLite
+	- [ ] Core Data
+	- [ ] PDF
+- [ ] Networking
+- [ ] In-App Purchases
+- [ ] User Notifications
+- [ ] TCP/IP
+- [ ] Sockets
+- [ ] Power Management
+- [ ] File System
+- [ ] Security
 ## Product Thinking
+- [ ] Processes
+	- [ ] Time Management
+	- [ ] Communications
+	- [ ] Decision Making
+- [ ] Product (Economics)
+	- [ ] Market Research
+	- [ ] Customer Development
+	- [ ] Analytics
+	- [ ] Monetisation
+	- [ ] A/B-testing, Experiments
+	- [ ] Minimal Viable Product
+- [ ] Design
+	- [ ] User Experience, Human Oriented Design
+	- [ ] Visual Design, User Interface Design
