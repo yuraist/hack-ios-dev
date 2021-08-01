@@ -1,4 +1,5 @@
 # Hack iOS Development
+The following checklist is a roadmap for iOS developers who want to become experts in this area. Read [the Medium post](https://medium.com/@yuraist/how-to-become-an-awesome-ios-developer-cda0206ef86f) to learn more.
 ## Computer Science
 - [ ] History of the computer
 - [ ] Hardware
@@ -147,3 +148,8 @@
 - [ ] Design
 	- [ ] User Experience, Human Oriented Design
 	- [ ] Visual Design, User Interface Design
+---
+## Resources
+[CS50](https://www.youtube.com/watch?v=jjqgP9dpD1k&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW) – one of the most popular Computer Science courses developed by Harvard University. It helps to learn basics of programming. Algorithms, data structures, memory, computational thinking, the C language and more.
+[Book «Code: The Hidden Language of Computer Hardware and Software»](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) – a book describes how computer works. Even if you don’t have any technical background, this book will help you understand computer work.
+[Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) – official documentation of the Swift language provided by Apple and Swift’s open-source community.
