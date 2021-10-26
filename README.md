@@ -98,7 +98,7 @@ The following checklist is a roadmap for iOS developers who want to become exper
 - [ ] SwiftUI
 - [ ] Text
 	- [ ] Label
-	- [ ] Text Filed
+	- [ ] Text Field
 	- [ ] Text View
 	- [ ] Attributed Strings
 	- [ ] Text Kit
